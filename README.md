@@ -65,17 +65,17 @@
 <strong>AI / Reasoning</strong>
 <ul>
 <li>deterministic + local</li>
-<li>retrieval systems</li>
-<li>signal extraction</li>
-<li>SCCE</li>
+<li>no token economics</li>
+<li>signals analysis</li>
+<li>LLM Independent</li>
 </ul>
 </td>
 
 <td valign="top">
 <strong>Trust Boundary</strong>
 <ul>
-<li>audit chains</li>
-<li>cryptographic validation</li>
+<li>blockchain validation</li>
+<li>cryptographic security</li>
 <li>append-only log</li>
 <li>merkle proofs</li>
 </ul>
@@ -86,8 +86,8 @@
 <ul>
 <li>firmware interfaces</li>
 <li>waveform tooling</li>
-<li>diagnostics</li>
-<li>Van Eck / passive RF</li>
+<li>RF Synthesis</li>
+<li>spectral analysis</li>
 </ul>
 </td>
 
