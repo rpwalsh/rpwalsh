@@ -11,8 +11,8 @@
 <strong>Core Systems</strong>
 <ul>
 <li>internal platforms</li>
-<li>secure / air-gapped systems</li>
-<li>decision-support systems</li>
+<li>air-gapped systems</li>
+<li>decision-support</li>
 <li>end-to-end ownership</li>
 </ul>
 </td>
@@ -20,7 +20,7 @@
 <td valign="top">
 <strong>Modeling Layer</strong>
 <ul>
-<li>graph-based modeling</li>
+<li>graph modeling</li>
 <li>entity normalization</li>
 <li>schema design</li>
 <li>causal inference</li>
@@ -30,9 +30,9 @@
 <td valign="top">
 <strong>Execution Layer</strong>
 <ul>
-<li>ingestion + normalization</li>
+<li>ingest + normalize</li>
 <li>deterministic inference</li>
-<li>forecasting + simulation</li>
+<li>forecast + simulate</li>
 <li>audit + traceability</li>
 </ul>
 </td>
@@ -41,7 +41,7 @@
 <strong>Hardware Edge</strong>
 <ul>
 <li>embedded + RF systems</li>
-<li>reverse-engineered tooling</li>
+<li>reverse-engineering</li>
 <li>protocol analysis</li>
 <li>real-time control</li>
 </ul>
@@ -64,7 +64,7 @@
 <td valign="top">
 <strong>AI / Reasoning</strong>
 <ul>
-<li>deterministic reasoning</li>
+<li>deterministic + local</li>
 <li>retrieval systems</li>
 <li>signal extraction</li>
 <li>SCCE</li>
@@ -76,8 +76,8 @@
 <ul>
 <li>audit chains</li>
 <li>cryptographic validation</li>
-<li>append-only storage</li>
-<li>ImpactX</li>
+<li>append-only log</li>
+<li>merkle proofs</li>
 </ul>
 </td>
 
@@ -87,7 +87,7 @@
 <li>firmware interfaces</li>
 <li>waveform tooling</li>
 <li>diagnostics</li>
-<li>Baofeng CPS / GhostEmitter</li>
+<li>Van Eck / passive RF</li>
 </ul>
 </td>
 
