@@ -94,12 +94,4 @@
 </tr>
 </table>
 
-<p>
-Selected Repos:
-<a href="./graphOS">GraphOS</a>,
-<a href="./scce">SCCE</a>,
-<a href="./ImpactX">ImpactX</a>,
-<a href="./baofeng_1702b">Baofeng CPS</a>,
-<a href="./ghostemitter">GhostEmitter</a>,
-<a href="./blockchain-voting-system">Verifiable Voting System</a>.
-</p>
+
