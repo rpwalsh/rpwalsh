@@ -4,7 +4,7 @@
 <p style="margin:12px 0 18px 0;">
 I build deterministic systems for high-risk domains where correctness and trust matter.
 </p>
-
+<center>
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
@@ -31,9 +31,10 @@ I build deterministic systems for high-risk domains where correctness and trust 
 <li>embedded + RF systems</li>
 <li>reverse-engineered tooling</li>
 <li>air-gapped platforms (ImpactX)</li>
-<li>Meta: end-to-end platform ownership</li>
+<li>end-to-end platform ownership</li>
 </ul>
 </td>
 
 </tr>
 </table>
+</center>
