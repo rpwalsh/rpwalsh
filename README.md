@@ -1,24 +1,105 @@
-# Ryan Walsh
-**Staff / Principal Systems Engineer**
+<h1>Ryan Walsh</h1>
 
-I build systems that make ambiguous, high-risk domains operational.
+<p><strong>Staff / Principal Systems Engineer</strong></p>
 
-<table> <tr> <td>
+<p>I turn ambiguous, high-risk domains into operational systems.</p>
 
-- internal platforms
-- ingestion + normalization
-- secure / air-gapped systems
-- decision-support systems
-- embedded + RF systems
-- visualization + telemetry
+<table width="100%" style="table-layout:fixed;">
+<tr>
 
-</td> <td>
+<td valign="top">
+<strong>Core Systems</strong>
+<ul>
+<li>internal platforms</li>
+<li>secure / air-gapped systems</li>
+<li>decision-support systems</li>
+<li>end-to-end ownership</li>
+</ul>
+</td>
 
-- graph-based modeling
-- deterministic inference
-- audit + traceability 
-- forecasting + simulation
-- reverse-engineered tooling
-- end-to-end ownership 
+<td valign="top">
+<strong>Modeling Layer</strong>
+<ul>
+<li>graph-based modeling</li>
+<li>entity normalization</li>
+<li>schema design</li>
+<li>causal inference</li>
+</ul>
+</td>
 
-</td> </tr> </table> 
+<td valign="top">
+<strong>Execution Layer</strong>
+<ul>
+<li>ingestion + normalization</li>
+<li>deterministic inference</li>
+<li>forecasting + simulation</li>
+<li>audit + traceability</li>
+</ul>
+</td>
+
+<td valign="top">
+<strong>Hardware Edge</strong>
+<ul>
+<li>embedded + RF systems</li>
+<li>reverse-engineered tooling</li>
+<li>protocol analysis</li>
+<li>real-time control</li>
+</ul>
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+<strong>Operational Surface</strong>
+<ul>
+<li>visualization + telemetry</li>
+<li>risk surfacing</li>
+<li>dependency mapping</li>
+<li>system observability</li>
+</ul>
+</td>
+
+<td valign="top">
+<strong>AI / Reasoning</strong>
+<ul>
+<li>deterministic reasoning</li>
+<li>retrieval systems</li>
+<li>signal extraction</li>
+<li>SCCE</li>
+</ul>
+</td>
+
+<td valign="top">
+<strong>Trust Boundary</strong>
+<ul>
+<li>audit chains</li>
+<li>cryptographic validation</li>
+<li>append-only storage</li>
+<li>ImpactX</li>
+</ul>
+</td>
+
+<td valign="top">
+<strong>Field Systems</strong>
+<ul>
+<li>firmware interfaces</li>
+<li>waveform tooling</li>
+<li>diagnostics</li>
+<li>Baofeng CPS / GhostEmitter</li>
+</ul>
+</td>
+
+</tr>
+</table>
+
+<p>
+Selected Repos:
+<a href="./graphOS">GraphOS</a>,
+<a href="./scce">SCCE</a>,
+<a href="./ImpactX">ImpactX</a>,
+<a href="./baofeng_1702b">Baofeng CPS</a>,
+<a href="./ghostemitter">GhostEmitter</a>,
+<a href="./blockchain-voting-system">Verifiable Voting System</a>.
+</p>
