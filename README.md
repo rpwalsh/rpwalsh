@@ -12,7 +12,7 @@ I build deterministic systems for high-risk domains where correctness and trust 
 <ul style="margin:0; padding-left:18px; line-height:1.6;">
 <li>internal platforms</li>
 <li>secure analytics systems</li>
-<li>data ingestion + normalization</li>
+<li>data normalization</li>
 <li>decision-support systems</li>
 </ul>
 </td>
@@ -20,7 +20,7 @@ I build deterministic systems for high-risk domains where correctness and trust 
 <td valign="top" width="33%" style="padding-right:20px;">
 <ul style="margin:0; padding-left:18px; line-height:1.6;">
 <li>graph-based modeling</li>
-<li>deterministic inference (SCCE)</li>
+<li>deterministic inference</li>
 <li>forecasting + simulation</li>
 <li>visualization + telemetry</li>
 </ul>
@@ -29,9 +29,9 @@ I build deterministic systems for high-risk domains where correctness and trust 
 <td valign="top" width="33%">
 <ul style="margin:0; padding-left:18px; line-height:1.6;">
 <li>embedded + RF systems</li>
-<li>reverse-engineered tooling</li>
-<li>air-gapped platforms (ImpactX)</li>
-<li>end-to-end platform ownership</li>
+<li>reverse-engineering</li>
+<li>air-gapped platforms</li>
+<li>end-to-end ownership</li>
 </ul>
 </td>
 
