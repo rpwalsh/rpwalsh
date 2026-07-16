@@ -10,6 +10,7 @@ My work spans systems experiments, backend services, data-heavy platforms, real-
 - **SCCE** — experimental cognitive-engine / AI-systems work focused on inspectable reasoning, memory, and evaluation.
 - **DispatchLayer** — Python/FastAPI/Vue forecasting and decision-support stack for grid assets.
 - **searchAPI** — Go-backed hardware telemetry/search API and operator-console demo.
+- **dm-1702b-configurator** — C#/.NET hardware configuration tooling for radio/device workflows.
 - **RiskLab** — production-focused TypeScript UI packages released under the `@risklab` npm scope.
 
 ## RiskLab packages
