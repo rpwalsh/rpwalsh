@@ -1,6 +1,6 @@
 # Ryan P. Walsh
 
-I'm a principal-level full-stack and platform engineer who builds calm, powerful software for complicated technical work: React and TypeScript interfaces, developer platforms, data-heavy workflows, visualization systems, and production tools that help teams understand what is going on. See the work at [rpwalsh.github.io](https://rpwalsh.github.io/) or browse my [GitHub repositories](https://github.com/rpwalsh?tab=repositories).
+I'm a principal-level full-stack AI platform engineer who builds calm, powerful software for complicated technical work: React and TypeScript interfaces, developer platforms, data-heavy workflows, visualization systems, and production tools that help teams understand what is going on. See the work at [rpwalsh.github.io](https://rpwalsh.github.io/) or browse my [GitHub repositories](https://github.com/rpwalsh?tab=repositories).
 
 [RiskLab](https://rpwalsh.github.io/?view=all) is my public TypeScript UI lab: independently versioned packages for [accessible application components](https://github.com/rpwalsh/risklab-ui), [interactive analytical charts](https://github.com/rpwalsh/risklab-charts), [deterministic typed styling](https://github.com/rpwalsh/risklab-styler), and [original SVG icons](https://github.com/rpwalsh/risklab-icons). Each package is browser-tested, validated through installed-tarball consumer fixtures, and designed to make serious technical interfaces faster to build and easier to use.
 
